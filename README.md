@@ -1,7 +1,7 @@
 ## Dominos_Predictive_Purchase_Order_System
 
 ### Overview
-This project aims to forecast the ingredients required for pizzas based on historical sales data using the Prophet model. The system enhances inventory management and minimizes food waste by predicting ingredient needs for the upcoming week.
+This project aims to forecast the ingredients required for pizzas based on historical sales data using the Arima model. The system enhances inventory management and minimizes food waste by predicting ingredient needs for the upcoming week.
 
 ## Key Components
 
@@ -15,7 +15,7 @@ This project aims to forecast the ingredients required for pizzas based on histo
 
 
 ### 3. Model Training
-- Train the Prophet model on historical sales data to predict future ingredient requirements.
+- Train the Arima model on historical sales data to predict future ingredient requirements.
 - Fine-tune model parameters to enhance accuracy and reliability.
 
 ### 4. Model Evaluation
